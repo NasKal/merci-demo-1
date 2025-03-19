@@ -233,7 +233,7 @@ function App() {
               >
                 <motion.img 
                   src={url} 
-                  alt={Instagram post ${index + 1}}
+                  alt={`Instagram post ${index + 1}`}
                   className="w-full h-full object-cover"
                   whileHover={{ scale: 1.1 }}
                   transition={{ duration: 0.3 }}
