@@ -149,7 +149,7 @@ function App() {
                 whileTap={{ scale: 0.95 }}
               >
                 <MapPin className="mr-2" size={20} />
-                Visit Us
+                Επισκευθείτε μας
               </motion.a>
             </motion.div>
           </div>
