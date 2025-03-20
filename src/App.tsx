@@ -8,7 +8,7 @@ import { useState } from 'react';
 
 const menuItems = [
   {
-    name: 'Χειροποίητες Τούρτεs',
+    name: 'Χειροποίητες Τούρτες',
     description: 'Φτιαγμένες με αγάπη',
     price: 'από €25',
     icon: Cake
