@@ -39,9 +39,11 @@ const fadeInUp = {
   viewport: { once: true },
   transition: { duration: 0.6 }
 };
-const [menuOpen, setMenuOpen] = useState(false);
+
 
 function App() {
+  const [menuOpen, setMenuOpen] = useState(false);
+
   return (
     <div className="min-h-screen bg-[#FDF8F5]">
       <CursorTrail />
